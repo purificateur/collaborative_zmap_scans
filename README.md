@@ -1,6 +1,6 @@
 # Detecting Collaborative ZMap Scans Algorithm Results
 
-This repository contains the outputs of the algorithm presented in the paper titled "Detecting Collaborative ZMap Scans" written by <REDACTED>. The paper was submitted as a thesis to the EEMCS Faculty of Delft University of Technology, in partial fulfillment of the requirements for the Bachelor of Computer Science and Engineering.
+This repository contains the outputs of the algorithm presented in the paper titled "Detecting Collaborative ZMap Scans" written by Fatih Acikkollu. The paper was submitted as a thesis to the EEMCS Faculty of Delft University of Technology, in partial fulfillment of the requirements for the Bachelor of Computer Science and Engineering.
 
 ## Overview
 
