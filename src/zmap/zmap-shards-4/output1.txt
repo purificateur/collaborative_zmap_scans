@@ -1,0 +1,256 @@
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE60B }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.1 | checksum: 0X3479 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 59648 | dest: 80 | seq: 1987898245 | checksum: 0XB156 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.21 | checksum: 0X3465 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE602 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.10 | checksum: 0X3470 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE58C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.128 | checksum: 0X33FA }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE52F }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.221 | checksum: 0X339D }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE548 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.196 | checksum: 0X33B6 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE60C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.0 | checksum: 0X347A }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE52A }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.226 | checksum: 0X3398 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33163 | dest: 80 | seq: 1249004132 | checksum: 0XE59E }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.110 | checksum: 0X340C }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 43090 | dest: 80 | seq: 2031870982 | checksum: 0XF6CE }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.43 | checksum: 0X344F }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 50270 | dest: 80 | seq: 1707644781 | checksum: 0X3AB9 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.33 | checksum: 0X3459 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 38534 | dest: 80 | seq: 771297788 | checksum: 0X2544 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.175 | checksum: 0X33CB }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 55998 | dest: 80 | seq: 2117777890 | checksum: 0XE91E }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.116 | checksum: 0X3406 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 45633 | dest: 80 | seq: 317075799 | checksum: 0X5E9 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.7 | checksum: 0X3473 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 45633 | dest: 80 | seq: 317075799 | checksum: 0X568 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.136 | checksum: 0X33F2 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 59229 | dest: 80 | seq: 3556548732 | checksum: 0XA094 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.3 | checksum: 0X3477 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 38534 | dest: 80 | seq: 771297788 | checksum: 0X2539 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.186 | checksum: 0X33C0 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 50270 | dest: 80 | seq: 1707644781 | checksum: 0X3A83 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.87 | checksum: 0X3423 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 33873 | dest: 80 | seq: 1872616302 | checksum: 0X2D01 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.16 | checksum: 0X346A }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 50270 | dest: 80 | seq: 1707644781 | checksum: 0X39F1 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.233 | checksum: 0X3391 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 51754 | dest: 80 | seq: 1306728666 | checksum: 0XCB28 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.94 | checksum: 0X341C }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 43872 | dest: 80 | seq: 3102157227 | checksum: 0X6E6C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.15 | checksum: 0X346B }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 39395 | dest: 80 | seq: 1227631176 | checksum: 0XEE44 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.210 | checksum: 0X33A8 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 56179 | dest: 80 | seq: 3866624746 | checksum: 0X3711 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.135 | checksum: 0X33F3 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 51854 | dest: 80 | seq: 2354785647 | checksum: 0X77D2 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.67 | checksum: 0X3437 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 43442 | dest: 80 | seq: 762806714 | checksum: 0XA34B }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.63 | checksum: 0X343B }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 57492 | dest: 80 | seq: 1381757260 | checksum: 0XD812 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.31 | checksum: 0X345B }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 37651 | dest: 80 | seq: 21777155 | checksum: 0X1C4F }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.189 | checksum: 0X33BD }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 52497 | dest: 80 | seq: 1211925849 | checksum: 0X614D }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.122 | checksum: 0X3400 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 40172 | dest: 80 | seq: 2729369432 | checksum: 0XDCD6 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.164 | checksum: 0X33D6 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 50567 | dest: 80 | seq: 2408071123 | checksum: 0X676E }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.29 | checksum: 0X345D }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 37973 | dest: 80 | seq: 3965900710 | checksum: 0XA31A }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.245 | checksum: 0X3385 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 37973 | dest: 80 | seq: 3965900710 | checksum: 0XA401 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.14 | checksum: 0X346C }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 37973 | dest: 80 | seq: 3965900710 | checksum: 0XA3C7 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.72 | checksum: 0X3432 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 55429 | dest: 80 | seq: 343483012 | checksum: 0XEC01 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.234 | checksum: 0X3390 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 52578 | dest: 80 | seq: 2353620105 | checksum: 0X3E17 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.34 | checksum: 0X3458 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 50567 | dest: 80 | seq: 2408071123 | checksum: 0X66FA }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.145 | checksum: 0X33E9 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 37973 | dest: 80 | seq: 3965900710 | checksum: 0XA310 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.255 | checksum: 0X337B }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 56734 | dest: 80 | seq: 4007950585 | checksum: 0XB672 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.127 | checksum: 0X33FB }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 56734 | dest: 80 | seq: 4007950585 | checksum: 0XB6B6 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.59 | checksum: 0X343F }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 41581 | dest: 80 | seq: 1566137022 | checksum: 0XA0EB }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.254 | checksum: 0X337C }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 34258 | dest: 80 | seq: 575173219 | checksum: 0XE11C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.212 | checksum: 0X33A6 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 41581 | dest: 80 | seq: 1566137022 | checksum: 0XA1A4 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.69 | checksum: 0X3435 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 34258 | dest: 80 | seq: 575173219 | checksum: 0XE0F4 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.252 | checksum: 0X337E }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 58496 | dest: 80 | seq: 449316695 | checksum: 0XF57E }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.80 | checksum: 0X342A }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 52072 | dest: 80 | seq: 2456534980 | checksum: 0XDE4A }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.139 | checksum: 0X33EF }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 45763 | dest: 80 | seq: 3489263201 | checksum: 0X8AA7 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.168 | checksum: 0X33D2 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 35396 | dest: 80 | seq: 1004004859 | checksum: 0X4F68 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.239 | checksum: 0X338B }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 56720 | dest: 80 | seq: 3001379264 | checksum: 0X1C1 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.119 | checksum: 0X3403 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 55177 | dest: 80 | seq: 2833014208 | checksum: 0X1D50 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.248 | checksum: 0X3382 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 53607 | dest: 80 | seq: 1117423166 | checksum: 0X6218 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.22 | checksum: 0X3464 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 53607 | dest: 80 | seq: 1117423166 | checksum: 0X618D }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.161 | checksum: 0X33D9 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 60763 | dest: 80 | seq: 2389170752 | checksum: 0XA58C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.222 | checksum: 0X339C }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 56155 | dest: 80 | seq: 2586093551 | checksum: 0XDE42 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.188 | checksum: 0X33BE }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 34894 | dest: 80 | seq: 1363052498 | checksum: 0X9AE2 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.45 | checksum: 0X344D }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 55467 | dest: 80 | seq: 3403621095 | checksum: 0X351C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.224 | checksum: 0X339A }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 53441 | dest: 80 | seq: 3665153506 | checksum: 0X8312 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.66 | checksum: 0X3438 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 38902 | dest: 80 | seq: 623463314 | checksum: 0XF344 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.120 | checksum: 0X3402 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 59341 | dest: 80 | seq: 1956173405 | checksum: 0XC8BA }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.240 | checksum: 0X338A }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 46905 | dest: 80 | seq: 48928669 | checksum: 0XAA52 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.91 | checksum: 0X341F }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 36923 | dest: 80 | seq: 1436665182 | checksum: 0X507C }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.183 | checksum: 0X33C3 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 36923 | dest: 80 | seq: 1436665182 | checksum: 0X50AE }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.133 | checksum: 0X33F5 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 44435 | dest: 80 | seq: 4053035510 | checksum: 0XF28F }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.192 | checksum: 0X33BA }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
+tcp { source: 54880 | dest: 80 | seq: 1753773646 | checksum: 0X4646 }
+ip { saddr: 192.168.1.57 | daddr: 171.67.70.241 | checksum: 0X3389 }
+eth { shost: 50:2f:9b:d0:9c:b1 | dhost: c8:54:4b:92:3c:a0 }
+------------------------------------------------------
